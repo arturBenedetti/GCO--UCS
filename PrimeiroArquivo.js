@@ -1,1 +1,1 @@
-console.log('Primeiro arquivo!')
+console.log('Primeiro arquivo!');
