@@ -1,2 +1,2 @@
 console.log('Primeiro arquivo!');
-console.log('Alteração');
+console.log('Alteração em outra branch');
